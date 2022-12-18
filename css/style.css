@@ -167,7 +167,7 @@ article a {
           display: flex;
           flex-direction: row;
           justify-content: flex-start;
-          gap: 1rem;
+          gap: 2rem;
           justify-content: center;
      }
 
